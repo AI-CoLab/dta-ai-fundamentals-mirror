@@ -1,0 +1,10 @@
+{
+  "id": "dta-ai-fundamentals",
+  "name": "Digital Transformation Agency",
+  "home": "https://www.digital.gov.au/ai/ai-in-government-policy/staff-training",
+  "licence": {
+    "spdx": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "attribution": "© Commonwealth of Australia (Digital Transformation Agency)"
+}

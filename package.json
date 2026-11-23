@@ -1,0 +1,18 @@
+{
+  "name": "dta-ai-fundamentals-mirror",
+  "private": true,
+  "type": "module",
+  "description": "A mirror of the Digital Transformation Agency's 'AI in government: fundamentals training' (CC BY 4.0), pulled from its published package and written as lesson files.",
+  "license": "CC-BY-4.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "pull": "node scripts/pull.mjs",
+    "build:content": "node scripts/build-content.mjs",
+    "check:content": "node ../learning-contracts/scripts/check-content.ts content"
+  },
+  "dependencies": {
+    "@aicolab/learning-contracts": "link:../learning-contracts"
+  }
+}

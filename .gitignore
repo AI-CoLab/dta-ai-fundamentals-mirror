@@ -1,0 +1,4 @@
+# The package's pictures, as pulled. Re-created by scripts/pull.mjs.
+files/
+node_modules/
+.DS_Store
